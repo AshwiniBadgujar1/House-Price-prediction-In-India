@@ -1,2 +1,12 @@
 # House-Price-prediction-In-India
-This project aims to build a machine learning model that predicts house prices in India based on various factors such as location, number of bedrooms, square footage, amenities, and market conditions. The dataset is processed, analyzed, and trained using different regression models to find the best-performing one.
+This Streamlit-based application allows users to predict house prices in India based on selected features. Users can:
+
+Upload a CSV file containing house data
+
+Select features for prediction
+
+Train a Linear Regression model
+
+View model evaluation metrics (MAE, RMSE)
+
+Visualize actual vs. predicted prices
